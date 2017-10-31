@@ -1,0 +1,14 @@
+{
+  "name": "barbarian-group-js-quiz",
+  "version": "1.0.0",
+  "description": "JavaScript Quiz from Barabarian Group",
+  "main": "index.html",
+  "scripts": {
+    "start": "node ./server/server.js"
+  },
+  "author": "Branden Dane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
